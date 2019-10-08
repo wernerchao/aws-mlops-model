@@ -8,6 +8,7 @@ from sklearn.externals import joblib
 
 from gamesbiz.resolve import paths
 
+# adding a useless comment
 
 def read_config_file(config_json):
     """This function reads in a json file like hyperparameters.json or resourceconfig.json
