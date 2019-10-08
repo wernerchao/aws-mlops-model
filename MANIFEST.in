@@ -1,0 +1,3 @@
+recursive-include gamesbiz/data/ *.csv
+recursive-include gamesbiz/data/ *.json
+recursive-include gamesbiz/ *.conf
