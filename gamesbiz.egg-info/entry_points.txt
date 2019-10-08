@@ -1,0 +1,6 @@
+[gamesbiz.hosting]
+serve = gamesbiz.server:start_server
+
+[gamesbiz.training]
+train = gamesbiz.train:entry_point
+
